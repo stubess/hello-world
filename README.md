@@ -1,2 +1,3 @@
 # hello-world
-UPractice using GitHub to create and manipulate a new repository
+Practice using GitHub to create and manipulate a new repository.
+Corrected misspelled "Practice"
